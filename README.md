@@ -30,5 +30,3 @@ How to Play
 >Click any empty cell to place your symbol (X or O)
 >First player to get 3 in a row (horizontal, vertical, or diagonal) wins!
 >View best scores by clicking "View Best Scores" button
-
-1.5 Project Structure
