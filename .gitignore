@@ -1,0 +1,32 @@
+# Compiled class files
+*.class
+
+# Package files
+*.jar
+*.war
+*.ear
+
+# IDE files
+.vscode/
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# NetBeans
+/nbproject/private/
+/build/
+/nbbuild/
+/dist/
+/nbdist/
+
+# Eclipse
+.settings/
+bin/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Score file
+# tictactoe_scores.txt
